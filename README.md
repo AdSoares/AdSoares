@@ -14,9 +14,11 @@ I'm a developer from Brazil that works with software development since 2005. I r
 
 ---
 
+<style>
 a {
     padding: 15;
 }
+</style>
 
 <h3>Things I know</h3>
 
