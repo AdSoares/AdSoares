@@ -15,7 +15,7 @@ I'm a developer from Brazil that works with software development since 2005. I r
 ---
 
 a {
-    padding: 10;
+    padding: 15;
 }
 
 <h3>Things I know</h3>
