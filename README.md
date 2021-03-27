@@ -9,10 +9,14 @@ I'm a developer from Brazil that works with software development since 2005. I r
 <h3>Find me</h3>
 
 <p align="left">
-<a href="https://twitter.com/adsoares_jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adsoares_jr" height="30" width="40" /></a>
+<a href="https://twitter.com/adsoares_jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adsoares_jr" height="30" width="30" /></a>
 </p>
 
 ---
+
+a {
+    padding: 10;
+}
 
 <h3>Things I know</h3>
 
