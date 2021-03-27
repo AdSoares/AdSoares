@@ -1,12 +1,20 @@
 [![Header](https://raw.githubusercontent.com/AdSoares/AdSoares/main/github_header.png "Header")](https://adsoares.me/)
 
-🔗 <h3>Find me</h3>
+---
+
+I'm a developer from Brazil that works with software development since 2005. I really like being a full cycle developer learning every day about product development, programming, testing and devops. I am currently working on some projects for clients and trying to develop my own business.
+
+---
+
+<h3>Find me</h3>
 
 <p align="left">
 <a href="https://twitter.com/adsoares_jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adsoares_jr" height="30" width="40" /></a>
 </p>
 
-🛠️ <h3>Things I know</h3>
+---
+
+<h3>Things I know</h3>
 
 <p align="left">
 Programming Languages
@@ -132,7 +140,9 @@ Source Control Management
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-🛠️ <h3>My numbers</h3>
+---
+
+<h3>Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adsoares&show_icons=true&locale=en&layout=compact" alt="adsoares" /></p>
 
