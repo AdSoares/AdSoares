@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AdSoares/github_header.png "Header")](https://adsoares.me/)
+[![Header](https://raw.githubusercontent.com/AdSoares/AdSoares/main/github_header.png "Header")](https://adsoares.me/)
 
 <!--
 **AdSoares/AdSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
