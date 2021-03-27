@@ -149,3 +149,8 @@ Source Control Management
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adsoares&show_icons=true&locale=en" alt="adsoares" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adsoares&" alt="adsoares" /></p>
+
+---
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
