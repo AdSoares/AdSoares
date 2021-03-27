@@ -152,5 +152,8 @@ Source Control Management
 
 ---
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<h3>Currently reading</h3>
 
+<p align="left">
+  <a href="https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=asc_df_0134494164/" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/41TPrNDI50L._SX387_BO1,204,203,200_.jpg" alt="book" width="120"/> </a>
+</p>
