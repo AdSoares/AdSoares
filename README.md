@@ -2,7 +2,10 @@
 
 ---
 
-I'm a developer from Brazil that works with software development since 2005. I really like being a full cycle developer learning every day about product development, programming, testing and devops. I am currently working on some projects for clients and trying to develop my own business.
+> Brazil, São Paulo - SP
+> Developer
+> DeOpvs & SRE
+> 20 year of software development
 
 ---
 
