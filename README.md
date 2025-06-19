@@ -1,4 +1,4 @@
-[![Header](https://www.solarwinds.com/wp-content/uploads/2022/03/devops-lifecycle.png)(https://github.com/AdSoares)
+[![Header](https://www.solarwinds.com/wp-content/uploads/2022/03/devops-lifecycle.png)](https://github.com/AdSoares)
 
 ---
 
