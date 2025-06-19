@@ -1,4 +1,4 @@
-[![Header]([[https://raw.githubusercontent.com/AdSoares/AdSoares/main/github_header.png](https://community.aws/_next/image?url=https%3A%2F%2Fcommunity.aws%2Fraw-post-images%2Fconcepts%2Fdevops-essentials%2Fimages%2Fdevops_loop.jpeg%3FimgSize%3D1600x960&w=1920&q=75](https://t2informatik.de/en/wp-content/uploads/sites/2/2023/01/devops.png)) "Header")](https://github.com/AdSoares)
+[![Header](https://t2informatik.de/en/wp-content/uploads/sites/2/2023/01/devops.png) "Header")](https://github.com/AdSoares)
 
 ---
 
