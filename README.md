@@ -29,7 +29,7 @@ Who I am?
 * Personal
   - Fun: Family, entrepreneurship, mindfulness, books, music, movies, series and parks
   - Dog breed: Akita Inu
-  - Body in motion: walks, running, weightlifting and I like watching football (soccer?)
+  - Body in motion: walks and running (trying 10,000 steps every day), weightlifting and I like watching football (soccer?)
   - Foods: most of the time Alternate Healthy Eating Index - AHEI (2 pounds of fruits and vegetables every day) and comfort foods sometimes
   - Mantra:
     - I want to be a reflection of the good choices I make every day based on my discipline and belief in daily and continuous evolution.
