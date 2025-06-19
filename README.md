@@ -27,7 +27,7 @@ Who I am?
   - GitOps: ArgoCD
   - Service Mesh: Istio
 * Personal
-  - Fun: Family, entrepreneurship, mindfulness, books, music, movies and series and parks
+  - Fun: Family, entrepreneurship, mindfulness, books, music, movies, series and parks
   - Dog breed: Akita Inu
   - Body in motion: walks, running, weightlifting and I like watching football (soccer?)
   - Foods: most of the time Alternate Healthy Eating Index - AHEI (2 pounds of fruits and vegetables every day) and comfort foods sometimes
