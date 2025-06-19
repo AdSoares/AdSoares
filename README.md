@@ -1,5 +1,4 @@
-[![Header](https://www.solarwinds.com/wp-content/uploads/2022/03/devops-lifecycle.png)](https://github.com/AdSoares)
-
+[![Header](https://t2informatik.de/en/wp-content/uploads/sites/2/2023/01/devops.png)](https://github.com/AdSoares)
 ---
 
 * Brazil, São Paulo - SP
