@@ -59,7 +59,3 @@ Who I am?
 
 <h3>Currently course</h3>
 
-<p align="left">
-  <a href="https://www.udemy.com/share/101Wh2B0Eec1lQQXo=/" target="_blank"> Udemy - Build an app with ASPNET Core and Angular from scratch  </a>
-</p>
-
